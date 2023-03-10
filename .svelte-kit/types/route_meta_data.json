@@ -1,0 +1,8 @@
+{
+	"/": [
+		"src/routes/+page.server.ts"
+	],
+	"/[noteId]": [
+		"src/routes/[noteId]/+page.server.ts"
+	]
+}
